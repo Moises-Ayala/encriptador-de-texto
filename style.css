@@ -2,3 +2,18 @@ body {
     font-family: "Kode Mono", monospace;
 }
 
+body {
+    display: inline-block;
+    width: 940px;
+    background: #d3d3ed;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.ingreso-datos {
+    width: 60%;
+}
+
+.copiar {
+    width: 40%; 
+}

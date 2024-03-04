@@ -2,18 +2,13 @@ body {
     font-family: "Kode Mono", monospace;
 }
 
-body {
-    display: inline-block;
+.area-encriptar {
     width: 940px;
-    background: #d3d3ed;
     padding: 50px;
     margin: 0 auto;
 }
 
-.ingreso-datos {
-    width: 60%;
-}
+.area-encriptar li{
+    display: inline-block;
 
-.copiar {
-    width: 40%; 
 }

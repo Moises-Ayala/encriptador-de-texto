@@ -1,14 +1,54 @@
+* {
+    box-sizing: border-box;
+
+}
+
 body {
     font-family: "Kode Mono", monospace;
 }
 
-.area-encriptar {
-    width: 940px;
-    padding: 50px;
+header {
+    background-color: #BBB;
+    padding: 20px 0;
+}
+
+main {
+    width: auto;
+    padding: 5px;
     margin: 0 auto;
+    background: red;
 }
 
-.area-encriptar li{
+.encriptar-desencriptar-copiar {
+    width: auto;
+    background: white;
+    display: flex;
+    
+}
+
+ul {
     display: inline-block;
+}
+
+.encripto {
+    width: 60%;
 
 }
+
+.copio {
+    width: 30%
+}
+
+.ingresa_datos {
+    display: block;
+    margin: 0 0 20px;
+    width: 300px;
+    height: 100px;
+
+}
+
+.copiar_datos {
+    display: block;
+}
+
+

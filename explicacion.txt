@@ -1,0 +1,12 @@
+curso definitivo de html y css
+video: 7
+1. <meta name="description" content="descripcion de la pagina"> esta descripcion es la que aparecera en la parte baja 
+de la pagina, el usuario vera que encontrara en la pagina y si esta contiene lo que busca.
+2. esta etiqueta se coloca para autorizar a los robots de el buscador que cuando alguien busque un tema especifico
+que una palabra u oracion contenida en nuestra pagina nos posicione con las paginas que se relacionen a este tema,  
+<meta name="robots" content="index,follow"> (follow) esto le dice en nuestro "index" tienes la autorizacion para poder 
+ayudarme a colocar la pagina si alguien busca el contenido.
+3. esta <meta name="viewport" content="width=device-width, initial-scale=1.0"> etiqueta la ponemos para que nuestra 
+pagina sea responsiba, que ajusta el zoom para que el usuario visualice bien la pagina al adaptarse a la pantalla.
+3. existen etiquetas de contenido y etiquetas contenedoras, las contenedoras llevan mas etiquetas dentro y nos ayudan 
+a generar la estructura de la pagina, las etiquetas de contenido son las que llevan el texto, imagenes, videos.
